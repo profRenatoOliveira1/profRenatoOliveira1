@@ -18,6 +18,7 @@
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
+<p>
 <img src="./assets/badges/html-5-svgrepo-com.svg" alt="HTML5" width="50" />
 <img src="./assets/badges/css-3-svgrepo-com.svg" alt="CSS3" width="50" />
 <img src="./assets/badges/js-svgrepo-com.svg" alt="JavaScript" width="50" />
@@ -31,6 +32,7 @@
 <img src="./assets/badges/git-svgrepo-com.svg" alt="Git" width="50" />
 <img src="./assets/badges/postman-icon-svgrepo-com.svg" alt="Postman" width="50" />
 <img src="./assets/badges/linux-svgrepo-com.svg" alt="Linux" width="50" />
+</p>
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -63,8 +65,10 @@
 ---
 
 ## 📫 Onde me encontrar
+<p>
 [<img src="./assets/badges/linkedin-1-svgrepo-com.svg" alt="LinkedIn" width="50" />](https://www.linkedin.com/in/renato-luis-de-oliveira-502832b7/)
 [<img src="./assets/badges/gmail-svgrepo-com.svg" alt="GitHub" width="50" />](https://github.com/profRenatoOliveira1)
+</p>
 <!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/renato-luis-de-oliveira-502832b7/)<a href="mailto:prof.renato.oliveira2023@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a> -->
