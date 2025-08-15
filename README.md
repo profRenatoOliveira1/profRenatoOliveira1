@@ -1,7 +1,10 @@
 # 👋 Olá! Eu sou o Renato Oliveira
 
-💻 **Profissional de Tecnologia da Informação** formado em **Ciência da Computação** com especialização em **Engenharia de Software** e certificação **SCFE - Sec4US Certified Forensics Expert**. <br>
-📚 **Instrutor de Desenvolvimento de Sistemas** no **SENAI**. <br>
+💻 **Profissional de Tecnologia da Informação**  
+🎓 **Formado em Ciência da Computação**  
+🛠️ **Especialização em Engenharia de Software**  
+🛡️ **Certificação SCFE - Sec4US Certified Forensics Expert**  
+📚 **Instrutor de Desenvolvimento de Sistemas** no **SENAI**.  
 🚀 Apaixonado por criar aplicações web e ensinar de forma simples e prática.
 
 ---
