@@ -18,19 +18,19 @@
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
-![HTML5](./assets/badges/html-5-svgrepo-com.svg)
-![CSS3](./assets/badges/css-3-svgrepo-com.svg)
-![JavaScript](./assets/badges/js-svgrepo-com.svg)
-![TypeScript](./assets/badges/typescript-svgrepo-com.svg)
-![C#](./assets/badges/csharp-svgrepo-com.svg)
-![React](./assets/badges/react-svgrepo-com.svg)
-![Node.js](./assets/badges/node-js-svgrepo-com.svg)
-![Express](./assets/badges/Express.svg)
-![PostgreSQL](./assets/badges/postgresql-logo-svgrepo-com.svg)
-![Docker](./assets/badges/docker-svgrepo-com.svg)
-![Git](./assets/badges/git-svgrepo-com.svg)
-![Postman](./assets/badges/postman-icon-svgrepo-com.svg)
-![Linux](./assets/badges/linux-svgrepo-com.svg)
+<img src="./assets/badges/html-5-svgrepo-com.svg" alt="HTML5" width="50" />
+<img src="./assets/badges/css-3-svgrepo-com.svg" alt="CSS3" width="50" />
+<img src="./assets/badges/js-svgrepo-com.svg" alt="JavaScript" width="50" />
+<img src="./assets/badges/typescript-svgrepo-com.svg" alt="TypeScript" width="50" />
+<img src="./assets/badges/csharp-svgrepo-com.svg" alt="C#" width="50" />
+<img src="./assets/badges/react-svgrepo-com.svg" alt="React" width="50" />
+<img src="./assets/badges/node-js-svgrepo-com.svg" alt="Node.js" width="50" />
+<img src="./assets/badges/Express.svg" alt="Express" width="50" />
+<img src="./assets/badges/postgresql-logo-svgrepo-com.svg" alt="PostgreSQL" width="50" />
+<img src="./assets/badges/docker-svgrepo-com.svg" alt="Docker" width="50" />
+<img src="./assets/badges/git-svgrepo-com.svg" alt="Git" width="50" />
+<img src="./assets/badges/postman-icon-svgrepo-com.svg" alt="Postman" width="50" />
+<img src="./assets/badges/linux-svgrepo-com.svg" alt="Linux" width="50" />
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -63,8 +63,8 @@
 ---
 
 ## 📫 Onde me encontrar
-[<img src="./assets/badges/linkedin-1-svgrepo-com.svg" alt="LinkedIn" />](https://www.linkedin.com/in/renato-luis-de-oliveira-502832b7/)
-[<img src="./assets/badges/gmail-svgrepo-com.svg" alt="GitHub" />](https://github.com/profRenatoOliveira1)
+[<img src="./assets/badges/linkedin-1-svgrepo-com.svg" alt="LinkedIn" width="50" />](https://www.linkedin.com/in/renato-luis-de-oliveira-502832b7/)
+[<img src="./assets/badges/gmail-svgrepo-com.svg" alt="GitHub" width="50" />](https://github.com/profRenatoOliveira1)
 <!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/renato-luis-de-oliveira-502832b7/)<a href="mailto:prof.renato.oliveira2023@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a> -->
