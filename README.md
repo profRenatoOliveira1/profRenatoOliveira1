@@ -18,7 +18,23 @@
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![HTML5](./assets/badges/badge-html5.svg)
+![CSS3](./assets/badges/badge-css3.svg)
+![JavaScript](./assets/badges/badge-javascript.svg)
+![TypeScript](./assets/badges/badge-typescript.svg)
+![React](./assets/badges/badge-react.svg)
+![React Native](./assets/badges/badge-react-native.svg)
+![Vite](./assets/badges/badge-vite.svg)
+![Node.js](./assets/badges/badge-nodejs.svg)
+![Express](./assets/badges/badge-express.svg)
+![PostgreSQL](./assets/badges/badge-postgresql.svg)
+![Docker](./assets/badges/badge-docker.svg)
+![Git](./assets/badges/badge-git.svg)
+![Postman](./assets/badges/badge-postman.svg)
+![Jest](./assets/badges/badge-jest.svg)
+![C#](./assets/badges/badge-csharp.svg)
+![Linux](./assets/badges/badge-linux.svg)
+<!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
@@ -33,7 +49,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) -->
 
 ---
 
@@ -50,9 +66,11 @@
 ---
 
 ## 📫 Onde me encontrar
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/renato-luis-de-oliveira-502832b7/)<a href="mailto:prof.renato.oliveira2023@gmail.com">
+[<img src="./assets/badges/badge-linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/renato-luis-de-oliveira-502832b7/)
+[<img src="./assets/badges/badge-github.svg" alt="GitHub" />](https://github.com/profRenatoOliveira1)
+<!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/renato-luis-de-oliveira-502832b7/)<a href="mailto:prof.renato.oliveira2023@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</a> -->
 <!-- - [LinkedIn]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/renato-luis-de-oliveira-502832b7/)) -->
 <!-- - [GitHub](https://github.com/profRenatoOliveira1)
 - E-mail: **prof.renato.oliveira2023@gmail.com** -->
