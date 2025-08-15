@@ -42,7 +42,7 @@
 ---
 
 ## 📫 Onde me encontrar
-<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">][(Link do Seu Perfil da DIO)](https://www.linkedin.com/in/renato-luis-de-oliveira-502832b7/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/renato-luis-de-oliveira-502832b7/)
 <!-- - [LinkedIn]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/renato-luis-de-oliveira-502832b7/)) -->
 <a href="mailto:prof.renato.oliveira2023@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
