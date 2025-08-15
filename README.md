@@ -66,8 +66,8 @@
 
 ## 📫 Onde me encontrar
 <p>
-[<img src="./assets/badges/linkedin-1-svgrepo-com.svg" alt="LinkedIn" width="50" />](https://www.linkedin.com/in/renato-luis-de-oliveira-502832b7/)
-[<img src="./assets/badges/gmail-svgrepo-com.svg" alt="GitHub" width="50" />](https://github.com/profRenatoOliveira1)
+<a href="https://www.linkedin.com/in/renato-luis-de-oliveira-502832b7/"><img src="./assets/badges/linkedin-1-svgrepo-com.svg" alt="LinkedIn" width="50" /></a>
+<a href="mailto:seuemail@gmail.com"><img src="./assets/badges/gmail-svgrepo-com.svg" alt="Email" width="50" /></a>
 </p>
 <!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/renato-luis-de-oliveira-502832b7/)<a href="mailto:prof.renato.oliveira2023@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
