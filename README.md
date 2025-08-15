@@ -4,7 +4,7 @@
 🎓 **Formado em Ciência da Computação**  
 🛠️ **Especialização em Engenharia de Software**  
 🛡️ **Certificação SCFE - Sec4US Certified Forensics Expert**  
-📚 **Instrutor de Desenvolvimento de Sistemas** no **SENAI**.  
+📚 **Instrutor de Desenvolvimento de Sistemas** no **SENAI Sertãozinho**.  
 🚀 Apaixonado por criar aplicações web e ensinar de forma simples e prática.
 
 ---
