@@ -60,7 +60,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profRenatoOliveira1&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=profRenatoOliveira1&layout=compact&theme=radical)
 
 ---
 
